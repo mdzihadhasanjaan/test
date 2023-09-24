@@ -1,1 +1,2 @@
-Hellow this is example text file
+Hello this is an example text file
+I added the second line haha!
